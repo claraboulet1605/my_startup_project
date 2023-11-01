@@ -1,0 +1,13 @@
+
+.banner {
+    background-image: url(../../image/pexels-moose-photos-1029896.jpg);
+    background-size: cover;
+    background-position: center;
+    padding: 150px 0;
+    filter: brightness(0.8);
+   
+}
+
+.banner h1 {
+    font-size: 50px;
+}

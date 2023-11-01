@@ -1,0 +1,13 @@
+.bnt-blue {
+    background-color: #6b72e1;
+    color: white;
+    padding: 15px 20px;
+    border-radius: 4px;
+    transition: transform 0.3s ease, background-color 0.3s ease;
+  }
+  
+  .bnt-blue:hover {
+    background-color: black;
+    transform: scale(1.1);
+    transition: transform 0.3s ease, background-color 0.3s ease;
+  }
